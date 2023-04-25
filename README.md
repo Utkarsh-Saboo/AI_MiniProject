@@ -1,0 +1,2 @@
+# AI_MiniProject
+FAKE_NEWS_DETECTION
